@@ -1,0 +1,7 @@
+{
+    "name": "angular-learn",
+    "dependencies": {
+        "angular": "latest",
+        "jquery": "latest"
+    }
+}
